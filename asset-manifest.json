@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.518ce94c.chunk.css",
-    "main.js": "/static/js/main.08af1bf1.chunk.js",
-    "main.js.map": "/static/js/main.08af1bf1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ae449939.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ae449939.js.map",
-    "static/js/2.fa7ce673.chunk.js": "/static/js/2.fa7ce673.chunk.js",
-    "static/js/2.fa7ce673.chunk.js.map": "/static/js/2.fa7ce673.chunk.js.map",
-    "static/js/3.4afade5b.chunk.js": "/static/js/3.4afade5b.chunk.js",
-    "static/js/3.4afade5b.chunk.js.map": "/static/js/3.4afade5b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.518ce94c.chunk.css.map": "/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.fa7ce673.chunk.js.LICENSE.txt": "/static/js/2.fa7ce673.chunk.js.LICENSE.txt",
-    "static/media/draft.8dbcdd10.svg": "/static/media/draft.8dbcdd10.svg",
-    "static/media/svgchart.2cdec87e.svg": "/static/media/svgchart.2cdec87e.svg"
+    "main.css": "/graduatePortfolio/static/css/main.518ce94c.chunk.css",
+    "main.js": "/graduatePortfolio/static/js/main.08af1bf1.chunk.js",
+    "main.js.map": "/graduatePortfolio/static/js/main.08af1bf1.chunk.js.map",
+    "runtime-main.js": "/graduatePortfolio/static/js/runtime-main.53549f1c.js",
+    "runtime-main.js.map": "/graduatePortfolio/static/js/runtime-main.53549f1c.js.map",
+    "static/js/2.ede69895.chunk.js": "/graduatePortfolio/static/js/2.ede69895.chunk.js",
+    "static/js/2.ede69895.chunk.js.map": "/graduatePortfolio/static/js/2.ede69895.chunk.js.map",
+    "static/js/3.4afade5b.chunk.js": "/graduatePortfolio/static/js/3.4afade5b.chunk.js",
+    "static/js/3.4afade5b.chunk.js.map": "/graduatePortfolio/static/js/3.4afade5b.chunk.js.map",
+    "index.html": "/graduatePortfolio/index.html",
+    "static/css/main.518ce94c.chunk.css.map": "/graduatePortfolio/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.ede69895.chunk.js.LICENSE.txt": "/graduatePortfolio/static/js/2.ede69895.chunk.js.LICENSE.txt",
+    "static/media/draft.8dbcdd10.svg": "/graduatePortfolio/static/media/draft.8dbcdd10.svg",
+    "static/media/svgchart.2cdec87e.svg": "/graduatePortfolio/static/media/svgchart.2cdec87e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae449939.js",
-    "static/js/2.fa7ce673.chunk.js",
+    "static/js/runtime-main.53549f1c.js",
+    "static/js/2.ede69895.chunk.js",
     "static/css/main.518ce94c.chunk.css",
     "static/js/main.08af1bf1.chunk.js"
   ]
