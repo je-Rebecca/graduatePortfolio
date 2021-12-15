@@ -10,7 +10,7 @@ const Home = () => {
           <Hover>
             <img src="https://i.imgur.com/PoJNPL2.jpg" alt="img" />
           </Hover>
-          <h3>Color Light 2021 [Arduino]</h3>
+          <h3>Color Light 2021 [Arduino ]</h3>
         </Link>
       </div>
       <div>
