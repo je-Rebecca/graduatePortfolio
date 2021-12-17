@@ -27,10 +27,10 @@ function App() {
   return (
     <div className="App">
       <GlobalStyle />
-      <Router>
+      <Router basename={}>
         <Header />
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/graduatePortfolio">
             <ScrollToTop />
             <Home />
           </Route>
